@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(dastur.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+label {
+    color: yellow;
+}
+
+input {
+    font-size: 25px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 70%;
+}
+
+
+#header {
+    text-align: center;
+    padding: 25px;
+    color: white;
+}
+
+
+#header h1 {
+    text-align: center;
+    color: white;
+    display: inline-block;
+}
+
+
+#header .logo {
+    color: coral;
+}
+
+
+
+.navbar {
+    float: right;
+}
+
+
+
+.navbar li {
+    display: inline;
+}
+
+
+
+.navbar a {
+    padding: 5px;
+    text-decoration: none;
+    color:yellow;
+}
+
+
+
+.navbar a:hover {
+    color:black;
+}
+
+.boshlash {
+    background-color: yellow;
+    font-size: 55px;
+    width: 50%;
+    height: 50%;
+}
+
+.button {
+    background-color: chartreuse;
+    width: 50%;
+    height: 50%;
+    font-size: 55px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.knopka  {
+ text-align: center;
+    width: 50%;
+    height: 50%;
+    font-size: 55px;
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+
+.knopka a {
+    
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+}
+
+
+#vedio {
+    width: 50%;
+    height: 50%;
+}
+
+
+.python {
+
+    border: 1px solid blue;
+    border-radius:55px;
+}
+
+
+.programming {
+    text-decoration: none;
+    color: rebeccapurple;
+}
+
+
+.html {
+    text-decoration: none;
+    color: rebeccapurple;
+}
+
+
+.css {
+    text-decoration: none;
+    color: rebeccapurple;
+}
+
+.script {
+    text-decoration: none;
+    color: rebeccapurple;
+}
+
+.boot {
+    text-decoration: none;
+    color: rebeccapurple;
+}
+
+ #Dastur a:hover {
+    color: yellow;
+}
+
+
+.vedio {
+    float: left;
+  width: 50%;
+  height: 50%;
+
+}
+
+#Dastur a img {
+    border: 2px solid white;
+    border-radius: 5px;
+    float: right;
+}
+
+#backend h1 {
+    color: yellow;
+}
+
+
+
+#newsletter {
+    width: 75%;
+    margin: 0 auto;
+    background-color: crimson;
+    text-align: center;
+    color: coral;
+}
+
+
+#newsletter .left {
+    float: left;
+}
+
+
+
+#newslwtter .right {
+    float: left;
+}
+
+
+#newsletter input {
+    font-size: 20px;
+}
+
+
+
+
+
+
